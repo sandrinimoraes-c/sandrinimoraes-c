@@ -14,7 +14,7 @@ Estudante do **4º semestre de Sistemas de Informação**. Estou construindo min
 
 Aqui estão algumas das tecnologias com as quais já tive contato na faculdade e estou estudando:
 
-| Categoria | Tecnologias |
+| Categoria | Tecnologias e Conceitos |
 | :--- | :--- |
 | **Linguagens** | `Java` `Python` `SQL` `HTML/CSS` |
 | **Conceitos** | `Estrutura de Dados` `Lógica de Programação` `Modelagem de Dados` |
