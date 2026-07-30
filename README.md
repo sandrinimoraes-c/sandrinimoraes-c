@@ -22,18 +22,3 @@ Aqui estão algumas das tecnologias com as quais já tive contato na faculdade e
 
 ---
 
-### 📊 Estatísticas Acadêmicas
-
-<p align="left">
-  <img src="https://vercel.app" alt="Estatísticas do GitHub" height="150">
-  <img src="https://vercel.app" alt="Linguagens Mais Usadas" height="150">
-</p>
-
----
-
-### 📫 Vamos trocar uma ideia?
-
-<p align="left">
-  <a href="mailto:sandrini.moraes@gmail.com"><img src="https://shields.io" target="_blank"></a>
-</p>
-
