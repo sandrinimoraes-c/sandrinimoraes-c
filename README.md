@@ -1,16 +1,39 @@
-## Hi there 👋
+# Olá, eu sou a Sandrini! 👋
 
-<!--
-**sandrinimoraes-c/sandrinimoraes-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre Mim
 
-Here are some ideas to get you started:
+Estudante do **4º semestre de Sistemas de Informação**. Estou construindo minha base teórica e prática em desenvolvimento de software. Busco minha primeira oportunidade no mercado de tecnologia (Estágio / Júnior) para aplicar meus conhecimentos e evoluir como futura desenvolvedora.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Graduanda em **Sistemas de Informação**
+- 🔭 Desenvolvendo projetos acadêmicos e pessoais para praticar lógica e arquitetura
+- 💬 Pergunte-me sobre os desafios e aprendizados da faculdade!
+
+---
+
+### 🛠️ Aprendizado & Stack Tecnológica
+
+Aqui estão algumas das tecnologias com as quais já tive contato na faculdade e estou estudando:
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | `Java` `Python` `SQL` `HTML/CSS` |
+| **Conceitos** | `Estrutura de Dados` `Lógica de Programação` `Modelagem de Dados` |
+| **Ferramentas**| `Git` `GitHub` `VS Code` |
+
+---
+
+### 📊 Estatísticas Acadêmicas
+
+<p align="left">
+  <img src="https://vercel.app" alt="Estatísticas do GitHub" height="150">
+  <img src="https://vercel.app" alt="Linguagens Mais Usadas" height="150">
+</p>
+
+---
+
+### 📫 Vamos trocar uma ideia?
+
+<p align="left">
+  <a href="mailto:sandrini.moraes@gmail.com"><img src="https://shields.io" target="_blank"></a>
+</p>
+
