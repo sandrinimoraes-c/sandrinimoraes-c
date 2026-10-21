@@ -59,6 +59,8 @@ sandrini@futuro:~$ _
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/SEU-PERFIL)
 &nbsp;&nbsp;
 [![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://instagram.com/sand.smc)
+&nbsp;&nbsp;
+<a href="https://wa.me/5565993400543"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="48" height="48" alt="WhatsApp"></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:3a0ca3,100:0d0221&height=120&section=footer" width="100%" alt="Footer">
 
